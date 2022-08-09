@@ -2,7 +2,11 @@
 
 Evaluation of Print Quality using Image Processing
 In this project, I have used Python and OpenCV to detect dirt's and correct dot on an image. Please download and run the file "imageRec.py" in your Python console to better understand the sequence.
-  Please ensure that OpenCV and Python are installed on your computer.
+
+
+Please ensure that OpenCV and Python are installed on your computer.
+
+
   The output of this project includes:
   a. The dirt on the Image (in red) and the total number detected
   b. The correct dots on the Image (in green) and the total number detected.
